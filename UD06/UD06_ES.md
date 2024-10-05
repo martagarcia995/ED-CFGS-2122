@@ -20,8 +20,8 @@ Porque entre lo que tiene que hacer un programa y cómo lo hace hay una distanci
 
 Documentar un programa no es sólo un acto de buen hacer del programador por aquello de dejar la obra rematada. Es además una necesidad que sólo se aprecia en su debida magnitud cuando hay errores que reparar o hay que extender el programa con nuevas capacidades o adaptarlo a un nuevo escenario. Hay dos reglas que no se deben olvidar nunca:
 
-1. todos los programas tienen errores y descubrirlos sólo es cuestión de tiempo y de que el programa tenga éxito y se utilice frecuentemente 
-2. todos los programas sufren modificaciones a lo largo de su vida, al menos todos aquellos que tienen éxito
+1. Todos los programas tienen errores y descubrirlos solo es cuestión de tiempo y de que el programa tenga éxito y se utilice frecuentemente.
+2. Todos los programas sufren modificaciones a lo largo de su vida, al menos todos aquellos que tienen éxito.
 
 Un programa, si tiene éxito, probablemente será modificado en el futuro por quien lo codificó o por otro programador. Pensando en esta revisión de código es por lo que es importante que el programa se entienda: para poder repararlo y modificarlo.
 
